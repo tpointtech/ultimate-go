@@ -87,7 +87,7 @@ This repo contains my notes on work with Go and computer systems
     - Fuzzing
         - [Guideline](https://github.com/ardanlabs/gotraining/blob/master/topics/fuzzing/README.md)
 - **Design Pattern** [Design Patterns](https://en.wikipedia.org/wiki/Design_Patterns)
-  | [javatpoint](https://www.javatpoint.com/prototype-design-pattern)
+  | [TpointTech](https://www.tpointtech.com/prototype-design-pattern)
     - SOLID: [SOLID](https://en.wikipedia.org/wiki/SOLID)
     - Creational
         - Simple Factory: [wiki](https://en.wikipedia.org/wiki/Factory_(object-oriented_programming))
